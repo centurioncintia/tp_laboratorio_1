@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1599854525 source:c:\users\cintia\desktop\nueva carpeta\tp1\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1599859406 source:c:\users\cintia\desktop\nueva carpeta\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"calculadora.h"
+	"utn.h"
+
+1599940229 source:c:\users\cintia\desktop\nueva carpeta\tp1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"utn.h"
+
+1599859327 c:\users\cintia\desktop\nueva carpeta\tp1\menu.h
+
+1599854268 c:\users\cintia\desktop\nueva carpeta\tp1\calculadora.h
+
+1599859742 c:\users\cintia\desktop\nueva carpeta\tp1\utn.h
+
+1599859765 source:c:\users\cintia\desktop\nueva carpeta\tp1\utn.c
+	<stdio.h>
+	<stdlib.h>
+
+1599854525 source:c:\users\cintia\desktop\tp1\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1599854268 c:\users\cintia\desktop\tp1\calculadora.h
+
+1599859406 source:c:\users\cintia\desktop\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"calculadora.h"
+	"utn.h"
+
+1599859327 c:\users\cintia\desktop\tp1\menu.h
+
+1599859742 c:\users\cintia\desktop\tp1\utn.h
+
+1599940229 source:c:\users\cintia\desktop\tp1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"utn.h"
+
+1599859765 source:c:\users\cintia\desktop\tp1\utn.c
+	<stdio.h>
+	<stdlib.h>
+
