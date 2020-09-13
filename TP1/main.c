@@ -17,7 +17,7 @@ int main()
     int flag3 = 0;
 
 
-    mostrarMenu();
+
 
     do
     {
