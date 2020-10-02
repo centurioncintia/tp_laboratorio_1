@@ -1,0 +1,167 @@
+# depslib dependency file v1.0
+1591587791 source:c:\users\cintia\desktop\tp2 abm\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"dataWarehouse.h"
+	<string.h>
+	"sector.h"
+	"utn.h"
+
+1591573478 c:\users\cintia\desktop\tp2 abm\arrayemployees.h
+	"sector.h"
+
+1591562279 c:\users\cintia\desktop\tp2 abm\sector.h
+
+1590460079 c:\users\cintia\desktop\tp2 abm\datawarehouse.h
+
+1592075229 source:c:\users\cintia\desktop\tp2 abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"sector.h"
+	"utn.h"
+
+1590460085 source:c:\users\cintia\desktop\tp2 abm\sector.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sector.h"
+
+1591582765 source:c:\users\cintia\desktop\tp2 abm\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1591583821 c:\users\cintia\desktop\tp2 abm\utn.h
+
+1591587791 source:c:\users\cintia\desktop\1° marzo cuatrimestre\ejemplos de la cursada pasada tp 1,2 escritorio\tp2\tp2 version en ingles\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"dataWarehouse.h"
+	<string.h>
+	"sector.h"
+	"utn.h"
+
+1591573478 c:\users\cintia\desktop\1° marzo cuatrimestre\ejemplos de la cursada pasada tp 1,2 escritorio\tp2\tp2 version en ingles\arrayemployees.h
+	"sector.h"
+
+1591562279 c:\users\cintia\desktop\1° marzo cuatrimestre\ejemplos de la cursada pasada tp 1,2 escritorio\tp2\tp2 version en ingles\sector.h
+
+1590460079 c:\users\cintia\desktop\1° marzo cuatrimestre\ejemplos de la cursada pasada tp 1,2 escritorio\tp2\tp2 version en ingles\datawarehouse.h
+
+1591583821 c:\users\cintia\desktop\1° marzo cuatrimestre\ejemplos de la cursada pasada tp 1,2 escritorio\tp2\tp2 version en ingles\utn.h
+
+1592075229 source:c:\users\cintia\desktop\1° marzo cuatrimestre\ejemplos de la cursada pasada tp 1,2 escritorio\tp2\tp2 version en ingles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"sector.h"
+	"utn.h"
+
+1590460085 source:c:\users\cintia\desktop\1° marzo cuatrimestre\ejemplos de la cursada pasada tp 1,2 escritorio\tp2\tp2 version en ingles\sector.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sector.h"
+
+1591582765 source:c:\users\cintia\desktop\1° marzo cuatrimestre\ejemplos de la cursada pasada tp 1,2 escritorio\tp2\tp2 version en ingles\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1601677853 source:c:\users\cintia\desktop\tp2 version en ingles\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"dataWarehouse.h"
+	<string.h>
+	"sector.h"
+	"centurion.h"
+	<ctype.h>
+
+1601677853 c:\users\cintia\desktop\tp2 version en ingles\arrayemployees.h
+	"sector.h"
+
+1591562279 c:\users\cintia\desktop\tp2 version en ingles\sector.h
+
+1590460079 c:\users\cintia\desktop\tp2 version en ingles\datawarehouse.h
+
+1591583821 c:\users\cintia\desktop\tp2 version en ingles\utn.h
+
+1601677296 source:c:\users\cintia\desktop\tp2 version en ingles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"sector.h"
+	"centurion.h"
+
+1601486754 source:c:\users\cintia\desktop\tp2 version en ingles\sector.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sector.h"
+	<ctype.h>
+
+1601486657 source:c:\users\cintia\desktop\tp2 version en ingles\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1601676338 source:c:\users\cintia\desktop\tp2 version en ingles\centurion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"centurion.h"
+
+1601676338 c:\users\cintia\desktop\tp2 version en ingles\centurion.h
+
+1601676338 source:c:\users\cintia\desktop\tp2 amb\centurion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"centurion.h"
+
+1601676338 c:\users\cintia\desktop\tp2 amb\centurion.h
+
+1601678428 source:c:\users\cintia\desktop\tp2 amb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"sector.h"
+	"centurion.h"
+
+1601679093 c:\users\cintia\desktop\tp2 amb\arrayemployees.h
+	"sector.h"
+
+1591562279 c:\users\cintia\desktop\tp2 amb\sector.h
+
+1601486754 source:c:\users\cintia\desktop\tp2 amb\sector.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sector.h"
+	<ctype.h>
+
+1601679093 source:c:\users\cintia\desktop\tp2 amb\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"dataWarehouse.h"
+	<string.h>
+	"sector.h"
+	"centurion.h"
+	<ctype.h>
+
+1590460079 c:\users\cintia\desktop\tp2 amb\datawarehouse.h
+
