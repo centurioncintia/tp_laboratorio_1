@@ -130,16 +130,16 @@
 
 1604716906 c:\users\cintia\desktop\tp3_cascara ok 2 cuatrimestre\win_32\centurion.h
 
-1604717048 source:c:\users\cintia\desktop\tp_laboratorio_1\tp3\centurion.c
+1606341895 source:c:\users\cintia\desktop\tp_laboratorio_1\tp3\centurion.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	<ctype.h>
 	"centurion.h"
 
-1604716906 c:\users\cintia\desktop\tp_laboratorio_1\tp3\centurion.h
+1606341895 c:\users\cintia\desktop\tp_laboratorio_1\tp3\centurion.h
 
-1605027722 source:c:\users\cintia\desktop\tp_laboratorio_1\tp3\controller.c
+1606346590 source:c:\users\cintia\desktop\tp_laboratorio_1\tp3\controller.c
 	<stdio.h>
 	<stdlib.h>
 	"LinkedList.h"
@@ -149,22 +149,24 @@
 	<string.h>
 	<ctype.h>
 
-1604301088 c:\users\cintia\desktop\tp_laboratorio_1\tp3\linkedlist.h
+1606341895 c:\users\cintia\desktop\tp_laboratorio_1\tp3\linkedlist.h
 
-1604716160 c:\users\cintia\desktop\tp_laboratorio_1\tp3\employee.h
+1606341895 c:\users\cintia\desktop\tp_laboratorio_1\tp3\employee.h
 	"LinkedList.h"
 
-1604301090 c:\users\cintia\desktop\tp_laboratorio_1\tp3\parser.h
+1606341895 c:\users\cintia\desktop\tp_laboratorio_1\tp3\parser.h
 
-1604717048 source:c:\users\cintia\desktop\tp_laboratorio_1\tp3\employee.c
+1606345933 source:c:\users\cintia\desktop\tp_laboratorio_1\tp3\employee.c
 	"Employee.h"
 	<string.h>
 	<stdlib.h>
 	<stdio.h>
 	"LinkedList.h"
 	<ctype.h>
+	"centurion.h"
+	"controller.h"
 
-1605027722 source:c:\users\cintia\desktop\tp_laboratorio_1\tp3\main.c
+1606342030 source:c:\users\cintia\desktop\tp_laboratorio_1\tp3\main.c
 	<stdio.h>
 	<stdlib.h>
 	"LinkedList.h"
@@ -172,9 +174,9 @@
 	"Employee.h"
 	"centurion.h"
 
-1604301086 c:\users\cintia\desktop\tp_laboratorio_1\tp3\controller.h
+1606341895 c:\users\cintia\desktop\tp_laboratorio_1\tp3\controller.h
 
-1605025759 source:c:\users\cintia\desktop\tp_laboratorio_1\tp3\parser.c
+1606347084 source:c:\users\cintia\desktop\tp_laboratorio_1\tp3\parser.c
 	<stdio.h>
 	<stdlib.h>
 	"LinkedList.h"

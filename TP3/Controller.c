@@ -7,7 +7,7 @@
 #include <string.h>
 #include <ctype.h>
 
-//FUNCIONANDO FALTA MODIFICAR
+
 
 static int obtenerId()
 {
@@ -40,9 +40,7 @@ int controller_loadFromText(char* path, LinkedList* pArrayListEmployee)
     }
     else if (parser_EmployeeFromText(f, pArrayListEmployee))
     {
-        // printf("\nEl archivo de TEXTO se abrio correctamente!!! \n\n");
         todoOk = 1;
-
     }
 
     fclose(f);
@@ -115,7 +113,8 @@ int controller_addEmployee(LinkedList* pArrayListEmployee)
         employee_setNombre(nuevoEmpleado, auxNombre);
         employee_setHorasTrabajadas(nuevoEmpleado, auxHoras);
         employee_setSueldo(nuevoEmpleado, auxSueldo);
-        nuevoEmpleado->id =obtenerId();
+        employee_setId(nuevoEmpleado, obtenerId());
+
 
         if (ll_add(pArrayListEmployee, nuevoEmpleado) == 0)
         {
@@ -446,11 +445,10 @@ int controller_saveAsBinary(char* path, LinkedList* pArrayListEmployee)
     }
 
     printf("Archivo modo bin guardado con exito!!\n\n");
+    todoOk =1;
     fclose(f);
 
-   // todoOk =1;
-    //printf("ERROR AL DAR ALTA\n");
-    //-employee_delete(empl);
+
 
     return todoOk;
 }

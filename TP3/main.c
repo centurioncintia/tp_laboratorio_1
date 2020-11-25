@@ -61,11 +61,11 @@ int main()
                 if(flag ==1){
                 if(controller_addEmployee(listaEmpleados)==1)
                 {
-                    printf("ALTA DE EMPLEADOS EXITOSA!\n");
+                    printf("ALTA DE EMPLEADOS EXITOSA!\n\n");
                 }
                 else
                 {
-                    printf("NO SE PUDO REALIZAR EL ALTA!\n");
+                    printf("NO SE PUDO REALIZAR EL ALTA!\n\n");
                 }
                 }
                 else
@@ -112,7 +112,7 @@ int main()
                 {
                if(controller_sortEmployee(listaEmpleados)==0)
                {
-                   printf("Ordenamiento Exitoso!!\n");
+                   printf("Ordenamiento Exitoso!!\n\n");
                }
                 }else{
 
