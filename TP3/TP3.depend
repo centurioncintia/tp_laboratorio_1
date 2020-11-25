@@ -1,0 +1,286 @@
+# depslib dependency file v1.0
+1533062952 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.c
+
+1533063050 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/LinkedList.h
+
+1533062926 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533062952 source:/home/mauro/Descargas/TP3/Linux_64/Employee.c
+
+1533066103 source:/home/mauro/Descargas/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/TP3/Linux_64/LinkedList.h
+
+1533066103 /home/mauro/Descargas/TP3/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533145792 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/LinkedList.h
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.h
+
+1533118898 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.c
+
+1533145890 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1604301086 source:c:\users\cintia\desktop\tp3_cascara\win_32\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1604301088 c:\users\cintia\desktop\tp3_cascara\win_32\linkedlist.h
+
+1604301088 c:\users\cintia\desktop\tp3_cascara\win_32\employee.h
+
+1604301086 source:c:\users\cintia\desktop\tp3_cascara\win_32\employee.c
+
+1604301088 source:c:\users\cintia\desktop\tp3_cascara\win_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1604301086 c:\users\cintia\desktop\tp3_cascara\win_32\controller.h
+
+1604301090 source:c:\users\cintia\desktop\tp3_cascara\win_32\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1604717105 source:c:\users\cintia\desktop\tp3_cascara ok 2 cuatrimestre\win_32\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"centurion.h"
+	<string.h>
+	<ctype.h>
+
+1604301088 c:\users\cintia\desktop\tp3_cascara ok 2 cuatrimestre\win_32\linkedlist.h
+
+1604716160 c:\users\cintia\desktop\tp3_cascara ok 2 cuatrimestre\win_32\employee.h
+	"LinkedList.h"
+
+1604717048 source:c:\users\cintia\desktop\tp3_cascara ok 2 cuatrimestre\win_32\employee.c
+	"Employee.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"LinkedList.h"
+	<ctype.h>
+
+1604717048 source:c:\users\cintia\desktop\tp3_cascara ok 2 cuatrimestre\win_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"centurion.h"
+
+1604301086 c:\users\cintia\desktop\tp3_cascara ok 2 cuatrimestre\win_32\controller.h
+
+1604685258 source:c:\users\cintia\desktop\tp3_cascara ok 2 cuatrimestre\win_32\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1604301090 c:\users\cintia\desktop\tp3_cascara ok 2 cuatrimestre\win_32\parser.h
+
+1604717048 source:c:\users\cintia\desktop\tp3_cascara ok 2 cuatrimestre\win_32\centurion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"centurion.h"
+
+1604716906 c:\users\cintia\desktop\tp3_cascara ok 2 cuatrimestre\win_32\centurion.h
+
+1604717048 source:c:\users\cintia\desktop\tp_laboratorio_1\tp3\centurion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"centurion.h"
+
+1604716906 c:\users\cintia\desktop\tp_laboratorio_1\tp3\centurion.h
+
+1605027722 source:c:\users\cintia\desktop\tp_laboratorio_1\tp3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"centurion.h"
+	<string.h>
+	<ctype.h>
+
+1604301088 c:\users\cintia\desktop\tp_laboratorio_1\tp3\linkedlist.h
+
+1604716160 c:\users\cintia\desktop\tp_laboratorio_1\tp3\employee.h
+	"LinkedList.h"
+
+1604301090 c:\users\cintia\desktop\tp_laboratorio_1\tp3\parser.h
+
+1604717048 source:c:\users\cintia\desktop\tp_laboratorio_1\tp3\employee.c
+	"Employee.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"LinkedList.h"
+	<ctype.h>
+
+1605027722 source:c:\users\cintia\desktop\tp_laboratorio_1\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"centurion.h"
+
+1604301086 c:\users\cintia\desktop\tp_laboratorio_1\tp3\controller.h
+
+1605025759 source:c:\users\cintia\desktop\tp_laboratorio_1\tp3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1606257465 source:c:\users\cintia\desktop\tp3\centurion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"centurion.h"
+
+1606257975 c:\users\cintia\desktop\tp3\centurion.h
+
+1606270635 source:c:\users\cintia\desktop\tp3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"centurion.h"
+	<string.h>
+	<ctype.h>
+
+1606197299 c:\users\cintia\desktop\tp3\linkedlist.h
+
+1606262200 c:\users\cintia\desktop\tp3\employee.h
+	"LinkedList.h"
+
+1604301090 c:\users\cintia\desktop\tp3\parser.h
+
+1606268478 source:c:\users\cintia\desktop\tp3\employee.c
+	"Employee.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"LinkedList.h"
+	<ctype.h>
+	"centurion.h"
+	"controller.h"
+
+1606270277 source:c:\users\cintia\desktop\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"centurion.h"
+
+1604301086 c:\users\cintia\desktop\tp3\controller.h
+
+1605115820 source:c:\users\cintia\desktop\tp3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1606257465 source:c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\trabajos practicos\tp3 corregido id  no git\centurion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"centurion.h"
+
+1606257975 c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\trabajos practicos\tp3 corregido id  no git\centurion.h
+
+1606270635 source:c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\trabajos practicos\tp3 corregido id  no git\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"centurion.h"
+	<string.h>
+	<ctype.h>
+
+1606197299 c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\trabajos practicos\tp3 corregido id  no git\linkedlist.h
+
+1606262200 c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\trabajos practicos\tp3 corregido id  no git\employee.h
+	"LinkedList.h"
+
+1604301090 c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\trabajos practicos\tp3 corregido id  no git\parser.h
+
+1606268478 source:c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\trabajos practicos\tp3 corregido id  no git\employee.c
+	"Employee.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"LinkedList.h"
+	<ctype.h>
+	"centurion.h"
+	"controller.h"
+
+1606270277 source:c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\trabajos practicos\tp3 corregido id  no git\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"centurion.h"
+
+1604301086 c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\trabajos practicos\tp3 corregido id  no git\controller.h
+
+1605115820 source:c:\users\cintia\desktop\2cuatrimestre\lab-prog 1\trabajos practicos\tp3 corregido id  no git\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
