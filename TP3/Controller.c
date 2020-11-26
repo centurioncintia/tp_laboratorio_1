@@ -65,7 +65,7 @@ int controller_loadFromBinary(char* path, LinkedList* pArrayListEmployee)
     if(f == NULL)//debo validar siempre
     {
         printf("No se  pudo abrir el archivo\n");
-        exit(EXIT_FAILURE);
+
     }
     else if (parser_EmployeeFromBinary(f, pArrayListEmployee))
     {
@@ -397,7 +397,7 @@ int controller_saveAsText(char* path, LinkedList* pArrayListEmployee)
     if (f == NULL)
     {
         printf("Error no se puede guardar Archivo\n");
-        exit(EXIT_FAILURE);
+
     }
     else
     {
@@ -435,7 +435,7 @@ int controller_saveAsBinary(char* path, LinkedList* pArrayListEmployee)
     if (f == NULL)
     {
         printf("Error no se puede guardar Archivo\n");
-        exit(EXIT_FAILURE);
+
     }
 
     for (int i=0; i<ll_len(pArrayListEmployee); i++)

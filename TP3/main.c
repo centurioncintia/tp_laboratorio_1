@@ -12,6 +12,12 @@ int main()
       int flag=0;
 
      LinkedList* listaEmpleados = ll_newLinkedList();
+     if(listaEmpleados == NULL)
+     {
+         printf("No se pudo conseguir memoria\n");
+         exit(EXIT_FAILURE);
+     }
+
 
      do{
      system("cls");
